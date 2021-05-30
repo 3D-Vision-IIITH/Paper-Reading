@@ -11,3 +11,4 @@ Group Advisor: [Dr. Avinash Sharma](https://sites.google.com/site/asharmaresearc
 * [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/pdf/1505.04597.pdf)
 * [VoxelNet: End-to-End Learning for Point Cloud Based 3D Object Detection](https://arxiv.org/pdf/1711.06396.pdf%20em%2017/12/2017.pdf)
 * Uncertainty-Aware Human Mesh Recovery by learning Part-Based 3D Dynamics
+* [EventCap: Monocular 3D Capture of High-Speed Human Motions using an Event Camera](https://gvv.mpi-inf.mpg.de/projects/2020-cvpr-eventcap/data/paper.pdf)
