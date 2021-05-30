@@ -12,3 +12,4 @@ Group Advisor: [Dr. Avinash Sharma](https://sites.google.com/site/asharmaresearc
 * [VoxelNet: End-to-End Learning for Point Cloud Based 3D Object Detection](https://arxiv.org/pdf/1711.06396.pdf%20em%2017/12/2017.pdf)
 * Uncertainty-Aware Human Mesh Recovery by learning Part-Based 3D Dynamics
 * [EventCap: Monocular 3D Capture of High-Speed Human Motions using an Event Camera](https://gvv.mpi-inf.mpg.de/projects/2020-cvpr-eventcap/data/paper.pdf)
+* [Neural Unsigned Distance Fields](https://arxiv.org/pdf/2010.13938.pdf)
